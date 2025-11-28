@@ -1,9 +1,4 @@
 import './style.css'
-import './bases/01-const-let'
-import './bases/02-template-string'
-import './bases/03=object-literal'
-import './bases/08-import-export'
-// import './bases/10-fetch-api'
 
 const API_KEY = 'spqOUM7FsasYhzfS8tvHEcdkjWS7nUmK';
 
